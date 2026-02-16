@@ -27,9 +27,15 @@ Resumen de datos:
 ) Formato implementado: Como [ROL], quiero [ACCIÓN], para [BENEFICIO]. 
 
 ### Criterios de Aceptación
-- (Mínimo 3 reglas claras y medibles)
+- El sistema debe ser totalmente Responsive (funcionar en móviles).
+
+- El tiempo de carga de los documentos debe ser menor a 4 segundos.
+
+- El usuario debe recibir una confirmación de alerta por notificación o correo electrónico.
 
 ### Requisitos Funcionales
-- El sistema debe ...
-- El sistema debe ...
-- El sistema debe ...
+- El sistema debe ...tener un módulo de Registro y Login (Autenticación) para proteger la privacidad de los documentos.
+- El sistema debe ...una conexión con Base de Datos para guardar de forma segura los archivos y fechas de vencimiento.
+- El sistema debe ...un sistema de alertas automáticas programadas según la fecha ingresada en cada documento.
+
+
