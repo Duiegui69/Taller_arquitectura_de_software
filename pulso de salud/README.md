@@ -65,7 +65,8 @@ Ref: citas.paciente_id > pacientes.id
 Ref: citas.medico_id > medicos.id
 Ref: historias_clinicas.cita_id > citas.id
 Ref: signos_vitales.paciente_id > pacientes.id
----
+```
+
 
 ## Fase 2: Implementación
 
