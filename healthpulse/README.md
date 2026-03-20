@@ -75,7 +75,7 @@ Se implementó la base de datos utilizando PostgreSQL con:
 - Constraints definidos al final (PRIMARY KEY, FOREIGN KEY, UNIQUE)
 - Integridad referencial con `ON DELETE`
 
-Y tabien se realizo uso de la base de datos siguiendo buenas prácticas:
+Y tambien se realizo uso de la base de datos siguiendo buenas prácticas:
 
 -Uso de SERIAL para claves primarias
 -Definición de constraints al final de cada tabla
